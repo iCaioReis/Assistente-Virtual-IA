@@ -1,0 +1,7 @@
+{
+    "add": ["somar", "+"],
+    "subtract": ["subtrair", "-"],
+    "multiply": ["multiplicar", "x", "*"],
+    "divide": ["dividir", "/"]
+  }
+  

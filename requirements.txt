@@ -1,0 +1,5 @@
+SpeechRecognition
+nltk
+transformers
+torch
+PyAudio
